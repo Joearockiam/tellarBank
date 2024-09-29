@@ -1,0 +1,29 @@
+.table-container {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background color for the table container */
+}
+
+.employee-table {
+    width: 100%;
+    border-collapse: collapse; /* Collapses borders between table cells */
+}
+
+.employee-table th, .employee-table td {
+    border: 1px solid #dee2e6; /* Border for table cells */
+    padding: 10px;
+    text-align: left; /* Aligns text to the left */
+}
+
+.header-cell {
+    background-color: #007bff; /* Set background color for header cells */
+    color: white; /* Set text color for header cells */
+    text-align: center; /* Center align header text */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row color for better readability */
+}
+
+tbody tr:hover {
+    background-color: #e9ecef; /* Change background on hover for table rows */
+}

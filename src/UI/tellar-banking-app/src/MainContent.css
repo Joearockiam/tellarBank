@@ -1,0 +1,6 @@
+.main-content {
+    margin-left: 200px; 
+    padding: 20px;
+    background-color: #bdb9b9; 
+    height: calc(100vh - 80px); 
+}

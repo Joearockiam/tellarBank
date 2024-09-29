@@ -1,0 +1,7 @@
+/* src/components/Header.css */
+.header {
+    background-color: #4c77af;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
